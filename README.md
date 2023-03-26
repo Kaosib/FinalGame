@@ -11,5 +11,5 @@ Video review = https://drive.google.com/file/d/16ZfJrEeB_eCndQNp__FpqHK3JJEshdQx
 
 อรรถพล ครุทธะสาร 2013211988
 
-**กลุ่มผม Export เป็นตัวเกมไม่ได้เนืองจากกลุ่มผมใช้ Construct 2 ที่เป็นตัวฟรี ผมขอเอาเป็นขึ้นเว็บแทนนะครับ
+**ผมทำใน Construct 2 แล้ว Export เป็น.exeไม่เป็น ผมขอเอาเป็นขึ้นเว็บแทนนะครับ
 https://auttaphol.itch.io/gunner
